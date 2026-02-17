@@ -1,4 +1,5 @@
 ipykernel
+python-dotenv
 tensorflow==2.16.2
 pandas
 numpy
