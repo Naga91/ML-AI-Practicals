@@ -8,3 +8,5 @@ matplotlib
 streamlit
 scikeras
 seaborn
+xgboost
+lightgbm
